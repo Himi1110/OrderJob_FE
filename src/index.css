@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-mine-shaft-50: #f6f6f6;
+  --color-mine-shaft-100: #e7e7e7;
+  --color-mine-shaft-200: #d1d1d1;
+  --color-mine-shaft-300: #b0b0b0;
+  --color-mine-shaft-400: #888888;
+  --color-mine-shaft-500: #6d6d6d;
+  --color-mine-shaft-600: #5d5d5d;
+  --color-mine-shaft-700: #4f4f4f;
+  --color-mine-shaft-800: #454545;
+  --color-mine-shaft-900: #3d3d3d;
+  --color-mine-shaft-950: #2d2d2d;
+  --color-java-50: #f1fcfa;
+  --color-java-100: #d1f6f0;
+  --color-java-200: #a3ece2;
+  --color-java-300: #6ddbd0;
+  --color-java-400: #4ac6bd;
+  --color-java-500: #25a7a0;
+  --color-java-600: #1b8682;
+  --color-java-700: #1a6b69;
+  --color-java-800: #195655;
+  --color-java-900: #194847;
+  --color-java-950: #09282a;
+}
