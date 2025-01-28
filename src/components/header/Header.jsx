@@ -1,6 +1,5 @@
 import { Avatar, Indicator } from "@mantine/core";
 import React from "react";
-import HimiAvt from "@img/HimiAvt.jpg";
 import NavLinks from "./NavLinks";
 import AssetIcon from "@img/Asset.svg";
 import BellIcon from "@img/Bell.svg";
@@ -19,7 +18,7 @@ const Header = () => {
       <div className="flex items-center gap-4">
         <div className="flex items-center gap-2">
           <div>Himi tới chơi</div>
-          <Avatar size={30} src={HimiAvt} alt="it's me" />
+          <Avatar size={30} src='/dororo.jpg' alt="it's me" />
         </div>
         <div className="bg-mine-shaft-900 p-1.5 rounded-full">
           <img src={SettingIcon} />

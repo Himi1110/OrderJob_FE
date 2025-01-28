@@ -16,7 +16,7 @@ const JobCategory = () => {
         slideSize='22%'
         slideGap='md'
         loop
-        className='focus-visible:[&_button]:!outline-none [&_button]:!bg-java-400 [&_button]:!border-none [&_button]:hover:!opacity-75 [&_button]:opacity-0 [&_button]:!w-10 [&_button]:!h-10'
+        className='focus-visible:[&_button]:!outline-none [&_button]:!bg-java-400 [&_button]:!border-none [&_button]:hover:!opacity-75 [&_button]:!opacity-0 [&_button]:!w-10 [&_button]:!h-10'
       >
         {jobCategory.map((category, index) => (
           <Carousel.Slide key={index}>

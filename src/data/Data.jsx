@@ -71,22 +71,26 @@ const work = [
 
 const testimonials = [
     {
-        "name": "Shivam Patel",
+        "name": "Dororo",
+        "src": "/dororo1.jpg",
         "testimonial": "This job portal made job search easy and quick. Recommended to all job seekers!",
         "rating": 5
     },
     {
-        "name": "Abhishek Kullu",
+        "name": "Himi",
+        "src": "/dororo.jpg",
         "testimonial": "Found my dream job within a week! The application process was smooth.",
         "rating": 5
     },
     {
-        "name": "Swapnil Pandey",
+        "name": "Nagumo",
+        "src": "/nagumo.jpg",
         "testimonial": "I secured a job offer within days of applying. Exceptional user experience and support.",
         "rating": 4
     },
     {
-        "name": "Pavan Barnana",
+        "name": "Someone",
+        "src": "/dororo2.jpg",
         "testimonial": "Highly efficient job portal with excellent resources. Helped me land a great position.",
         "rating": 4
     }
