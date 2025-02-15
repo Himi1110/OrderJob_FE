@@ -7,7 +7,7 @@ import SettingIcon from "@img/Setting.svg";
 
 const Header = () => {
   return (
-    <div className="w-full bg-mine-shaft-950 text-white h-20 flex justify-between px-5 items-center">
+    <div className="w-full bg-mine-shaft-950 font-[poppins] text-white h-20 flex justify-between px-5 items-center">
       <div className="flex gap-2 items-center text-java-300">
         <img src={AssetIcon} />
         <div className="text-3xl font-semibold">OrderJob</div>
